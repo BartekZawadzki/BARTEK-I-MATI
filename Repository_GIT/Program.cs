@@ -9,8 +9,7 @@ namespace ConsoleApp3
 
             Console.WriteLine("Hello Mati, its Bartek");
         
-           /* dokonano zmiany */
-            /* sram Ci do ryjca */
+           FIUTAS
         }
         
     }
